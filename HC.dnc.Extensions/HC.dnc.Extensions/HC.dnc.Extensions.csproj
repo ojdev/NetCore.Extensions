@@ -9,7 +9,7 @@
     <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
     <PackageProjectUrl>https://github.com/ojdev/DNC.Extensions</PackageProjectUrl>
     <RepositoryUrl>https://github.com/ojdev/DNC.Extensions</RepositoryUrl>
-    <Description>一些DNC的扩展方法，只是为了少些代码。</Description>
+    <Description>一些DNC的扩展方法，只是为了少写代码。</Description>
     <RepositoryType>github</RepositoryType>
   </PropertyGroup>
 
