@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.0</TargetFramework>
+    <AssemblyName>HC.DNC.Extensions</AssemblyName>
+    <RootNamespace>DNC.Extensions</RootNamespace>
+    <Authors>欧俊</Authors>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageRequireLicenseAcceptance>true</PackageRequireLicenseAcceptance>
+    <PackageProjectUrl>https://github.com/ojdev/DNC.Extensions</PackageProjectUrl>
+    <RepositoryUrl>https://github.com/ojdev/DNC.Extensions</RepositoryUrl>
+    <Description>一些DNC的扩展方法，只是为了少些代码。</Description>
+    <RepositoryType>github</RepositoryType>
+  </PropertyGroup>
+
+</Project>
