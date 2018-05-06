@@ -11,6 +11,16 @@
     <RepositoryUrl>https://github.com/ojdev/DNC.Extensions</RepositoryUrl>
     <Description>一些DNC的扩展方法，只是为了少写代码。</Description>
     <RepositoryType>github</RepositoryType>
+    <Version>1.0.0.1</Version>
+    <AssemblyVersion>1.0.0.1</AssemblyVersion>
+    <FileVersion>1.0.0.1</FileVersion>
+    <PackageLicenseUrl>https://github.com/ojdev/DNC.Extensions/blob/master/LICENSE</PackageLicenseUrl>
+    <Copyright>ojdev</Copyright>
+    <PackageTags>dnc</PackageTags>
+  </PropertyGroup>
+
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|AnyCPU'">
+    <DocumentationFile>bin\Release\netcoreapp2.0\HC.DNC.Extensions.xml</DocumentationFile>
   </PropertyGroup>
 
 </Project>

@@ -1,7 +1,7 @@
 ﻿namespace DNC.Extensions
 {
     public static class StringExtensions
-    {
+    {   
         /// <summary>
         /// Indicates whether a specified string is null, empty, or consists only of white-space
         /// characters.
